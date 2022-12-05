@@ -1,0 +1,16 @@
+{
+  "name": "cypress_uiautomation",
+  "version": "1.0.0",
+  "description": "e2e Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syed Umair Hassan",
+  "license": "ISC",
+  "dependencies": {
+    "Faker": "^0.7.2",
+    "cypress": "^6.4.0",
+    "mochawesome": "^6.2.1"
+  }
+}

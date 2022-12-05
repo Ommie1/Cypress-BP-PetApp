@@ -1,0 +1,6 @@
+.vscode
+node_modules
+cypress/mochawesome-report
+cypress/videos
+cypress/screenshots
+
